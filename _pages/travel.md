@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Travelogue"
-permalink: /travelogue/
+permalink: /travel/
 author_profile: true
 ---
