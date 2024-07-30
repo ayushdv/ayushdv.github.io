@@ -1,3 +1,9 @@
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: travel
+---
+
 # My Travel Photo Showcase
 
 Welcome to my travel photo showcase! Here are some of my favourite photos from my adventures around the world.
