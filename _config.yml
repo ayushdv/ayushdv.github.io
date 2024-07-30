@@ -21,12 +21,12 @@ repository               : "ayushdv/ayushdv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic1.jpeg"
   name             : "Ayushmaan Dev Verma"
   pronouns         : "he/him"  
   bio              : "Busy juggling numbers, data, and the occasional existential crisis!"
   location         : "Jaipur, India"
-  employer         : "Prospective PhD Student at The University of Edinburgh"
+  employer         : "The University of Edinburgh"
   uri              : # URL
   email            : "ayushdv123@gmail.com" 
 
