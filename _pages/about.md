@@ -17,7 +17,7 @@ redirect_from:
 
 💻 Professionally, I have 10-12 months of experience working in Data Science and Machine Learning. During this time, I’ve honed my skills in various tools and programming languages, including Python, R, SQL, STATA, and PowerBI. My work has involved both independent and collaborative research, which has given me a versatile skill set and a love for problem-solving.
 
-🤓 Beyond my professional and academic pursuits, I have a keen interest in Finance, Statistical Methods, and Deep Learning Methods. I enjoy exploring how these areas intersect with economics and how they can be applied to real-world problems.
+📚 Beyond my professional and academic pursuits, I have a keen interest in Finance, Statistical Methods, and Deep Learning Methods. I enjoy exploring how these areas intersect with economics and how they can be applied to real-world problems.
 
 ## Other Stuff
 
