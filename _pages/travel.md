@@ -4,10 +4,3 @@ title: "Travelogue"
 permalink: /travel/
 author_profile: true
 ---
-
-{% include base_path %}
-
-
-{% for post in site.travel %}
-  {% include archive-single.html %}
-{% endfor %}
