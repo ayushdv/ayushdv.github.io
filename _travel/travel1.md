@@ -7,7 +7,7 @@ collection: travel
 # My Travel Photo Showcase
 
 Welcome to my travel photo showcase! Here are some of my favourite photos from my adventures around the world.
-
+![hello](/images/mum1.jpeg)
 ---
 
 ## Scotland
