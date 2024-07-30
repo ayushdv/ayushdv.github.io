@@ -14,7 +14,7 @@ Welcome to my travel photo showcase! Here are some of my favourite photos from m
 ## Scotland
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin: 10px;">
-    ![Dean Village](/images/scot1.heic)
+    ![Dean Village](/images/icon_adv.jpeg)
     *Dean Village*
   </div>
   <div style="flex: 1; margin: 10px;">
