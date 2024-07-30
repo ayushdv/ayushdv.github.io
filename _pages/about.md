@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Background
+## Background
 
 ![An Image of myself](/images/icon_adv.jpeg){: .align-right width="300px"}
 
@@ -19,7 +19,7 @@ redirect_from:
 
 🤓 Beyond my professional and academic pursuits, I have a keen interest in Finance, Statistical Methods, and Deep Learning Methods. I enjoy exploring how these areas intersect with economics and how they can be applied to real-world problems.
 
-# Other Stuff
+## Other Stuff
 
 🎥🏏⚽🏎️ When I’m not immersed in research or working on data projects, I have a few hobbies that keep me entertained. As a self-proclaimed movie buff, I spend a good chunk of my week watching films and logging them on [Letterboxd](https://letterboxd.com/)! My weekends are often filled with catching up on cricket, football, and Formula 1, and I always look forward to diving into a good book, even if it's just occasionally 😢.
 
