@@ -10,67 +10,6 @@
  *
 */
 
-/* Light Mode Styles */
-body {
-  background-color: white;
-  color: black;
-}
-
-a {
-  color: blue;
-}
-
-.header {
-  background-color: #f8f9fa;
-}
-
-.content {
-  background-color: #ffffff;
-  color: #212529;
-}
-
-/* Dark Mode Styles */
-body.dark-mode {
-  background-color: #121212;
-  color: #e0e0e0;
-}
-
-body.dark-mode a {
-  color: lightblue;
-}
-
-body.dark-mode .header {
-  background-color: #333;
-}
-
-body.dark-mode .content {
-  background-color: #222;
-  color: #ddd;
-}
-
-/* Button styling */
-#theme-toggle {
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  background-color: #444;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  cursor: pointer;
-  border-radius: 25px;
-  font-size: 16px;
-  z-index: 1000; /* Ensure the button is on top of other elements */
-}
-
-body.light-mode #theme-toggle {
-  background-color: #ddd;
-  color: #000;
-}
-
-#theme-toggle:hover {
-  background-color: #555;
-}
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
