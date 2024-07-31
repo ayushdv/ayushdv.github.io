@@ -7,13 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-<div class="theme-switch-wrapper">
-    <label class="theme-switch" for="checkbox">
-        <input type="checkbox" id="checkbox" />
-        <div class="slider round"></div>
+<nav>
+  <div class="theme-switch-wrapper">
+       <label class="theme-switch" for="checkbox">
+    <input type="checkbox" id="checkbox" />
+    <div class="slider round"></div>
   </label>
-  <em>Enable Dark Mode!</em>
-</div>
+    <em>Dark Mode!</em>
+  </div>
+
+</nav>
 
 ## <span style="color: #6495ED;">About Me</span>
 
