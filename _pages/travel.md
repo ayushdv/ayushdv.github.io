@@ -9,7 +9,7 @@ Welcome to my travel photo showcase! Here are some of my favourite photos from m
 
 ---
 
-## <span style="color: #00BFFF;">Scotland</span>
+## <span style="color: #6495ED;">Scotland</span>
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin: 10px;">
     <img src="/images/scot1.png" alt="Dean Village" style="height: 400px; width: 500px;">
