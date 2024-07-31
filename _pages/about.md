@@ -7,14 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="theme-switch-wrapper">
-       <label class="theme-switch" for="checkbox">
-    <input type="checkbox" id="checkbox" />
-    <div class="slider round"></div>
-  </label>
-    <em>Enable Dark Mode!</em>
-</div>
-
 ## <span style="color: #6495ED;">About Me</span>
 
 ![An Image of myself](/images/icon_adv.jpeg){: .align-right width="300px"}
