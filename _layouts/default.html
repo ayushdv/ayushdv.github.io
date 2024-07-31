@@ -9,7 +9,7 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <link rel="stylesheet" href="{{ "/assets/css/main.scss" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
 
   <body class = "light-mode">
@@ -17,9 +17,7 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <header>
-      <button id="theme-toggle">Switch to Dark Mode</button>
-    </header>
+    <button id="theme-toggle" class="theme-toggle">🌙 Dark Mode</button>
     
 
     {{ content }}
