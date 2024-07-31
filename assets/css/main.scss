@@ -60,7 +60,7 @@ body.dark-mode .content {
   cursor: pointer;
   border-radius: 25px;
   font-size: 16px;
-  transition: background-color 0.3s ease;
+  z-index: 1000; /* Ensure the button is on top of other elements */
 }
 
 body.light-mode #theme-toggle {
