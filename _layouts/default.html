@@ -9,17 +9,12 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <link rel="stylesheet" href="{{ "/assets/css/main.scss" | relative_url }}">
   </head>
 
   <body>
       
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-
-    <header>
-      <button id="theme-toggle" class="theme-toggle">🌙 Dark Mode</button>
-    </header>
     
     {{ content }}
 
@@ -31,8 +26,6 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
-    <script src="{{ "/assets/js/theme-toggle.js" | relative_url }}"></script>
 
   </body>
 </html>
