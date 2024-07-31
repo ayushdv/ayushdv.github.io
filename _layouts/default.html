@@ -12,14 +12,15 @@ layout: compress
     <link rel="stylesheet" href="{{ "/assets/css/main.scss" | relative_url }}">
   </head>
 
-  <body class = "light-mode">
+  <body>
       
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <button id="theme-toggle" class="theme-toggle">🌙 Dark Mode</button>
+    <header>
+      <button id="theme-toggle" class="theme-toggle">🌙 Dark Mode</button>
+    </header>
     
-
     {{ content }}
 
     <div class="page__footer">
