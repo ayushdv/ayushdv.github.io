@@ -5,6 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
   if (currentTheme === 'dark') {
     document.body.classList.add('dark-mode');
     toggleButton.textContent = '☀️ Light Mode';
+  } else {
+    toggleButton.textContent = '🌙 Dark Mode';
   }
 
   toggleButton.addEventListener('click', function() {
