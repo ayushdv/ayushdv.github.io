@@ -5,7 +5,7 @@ permalink: /travel/
 author_profile: true
 ---
 
-Welcome to my travel photo showcase! Here are some of my favourite photos from my adventures around the world.
+Welcome to my photo showcase! Here are some of my favourite photos from places I've lived in.
 
 ---
 
