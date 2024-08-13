@@ -9,7 +9,7 @@ redirect_from:
 
 ## <span style="color: #6495ED;">About Me</span>
 
-![An Image of myself](/images/icon_adv.jpeg){: .align-right width="300px"}
+![An Image of myself](/images/icon_adv.jpeg){: .align-right width="200px"}
 
 🔬 I am a prospective PhD student at the School of Economics at The University of Edinburgh. Starting in October 2024, I will begin my research in Game Theory, specifically Multidimensional Signalling Theory.
 
