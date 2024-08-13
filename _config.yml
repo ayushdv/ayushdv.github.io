@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him"  
   bio              : "Busy juggling numbers, data, and the occasional existential crisis!"
   location         : "Jaipur, India"
-  employer         : "The University of Edinburgh"
+  employer         : "University of Edinburgh"
   uri              : # URL
   email            : "A.D.Verma@sms.ed.ac.uk" 
 
@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6955355"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
