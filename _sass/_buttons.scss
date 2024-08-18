@@ -151,3 +151,18 @@
     font-size: $type-size-7;
   }
 }
+
+@media (max-width: 768px) {
+  .dropdown-menu {
+    display: block;  /* Ensure dropdown is visible */
+    position: absolute;
+    top: 100%;  /* Align dropdown just below the button */
+    left: 0;
+    width: 100%;  /* Ensure full-width on smaller screens */
+    z-index: 1050;  /* Bring dropdown in front of other elements */
+  }
+
+  .dropdown-toggle {
+    width: 100%;  /* Ensure button takes full width on smaller screens */
+  }
+}
