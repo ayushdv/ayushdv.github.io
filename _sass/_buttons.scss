@@ -52,12 +52,12 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: $gray !important;
+    color: $fff !important;
     border: 1px solid $light-gray !important; /* override*/
-    background-color: #bd631e;
+    background-color: #FF7F50;
 
     &:hover {
-      color: #bd631e !important;
+      color: #FF7F50 !important;
       border-color: $gray;
     }
   }
