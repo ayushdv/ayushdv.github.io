@@ -20,7 +20,7 @@
   background-color: $primary-color;
   border: 0 !important;
   border-radius: $border-radius;
-  cursor: pointer;
+  z-index: 1000; 
 
   &:hover {
     background-color: mix(white, #000, 20%);
@@ -149,20 +149,5 @@
 
   &--small {
     font-size: $type-size-7;
-  }
-}
-
-@media (max-width: 768px) {
-  .dropdown-menu {
-    display: block;  /* Ensure dropdown is visible */
-    position: absolute;
-    top: 100%;  /* Align dropdown just below the button */
-    left: 0;
-    width: 100%;  /* Ensure full-width on smaller screens */
-    z-index: 1050;  /* Bring dropdown in front of other elements */
-  }
-
-  .dropdown-toggle {
-    width: 100%;  /* Ensure button takes full width on smaller screens */
   }
 }
