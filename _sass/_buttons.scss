@@ -109,7 +109,7 @@
   /* disabled */
 
   &--disabled {
-    pointer-events: auto;
+    pointer-events: none;
     cursor: not-allowed;
     filter: alpha(opacity=65);
     box-shadow: none;
