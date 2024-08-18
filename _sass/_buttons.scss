@@ -20,7 +20,6 @@
   background-color: $primary-color;
   border: 0 !important;
   border-radius: $border-radius;
-  z-index: 1000; 
 
   &:hover {
     background-color: mix(white, #000, 20%);
