@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile_pic1.jpeg"
   name             : "Ayushmaan Dev Verma"
-  pronouns         : #"he/him"  
-  bio              : #"Busy juggling numbers, data, and the occasional existential crisis!"
+  pronouns         : "he/him"  
+  bio              : "Busy juggling numbers, data, and the occasional existential crisis!"
   location         : "Jaipur, India"
   employer         : "University of Edinburgh"
   uri              : # URL
