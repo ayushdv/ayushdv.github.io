@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ayushmaan's Personal Webpage"
+title                    : "Ayushmaan's Webpage"
 title_separator          : "-"
 name                     : &name "Ayushmaan Dev Verma"
 description              : &description "personal description"
