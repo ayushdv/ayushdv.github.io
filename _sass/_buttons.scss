@@ -53,13 +53,13 @@
 
   &--inverse {
     color: #FFFFFF !important;
-    border: 1px solid #0056b3 !important; /* override*/
-    background-color: #007BFF;
+    border: 1px solid #1e7e34 !important; /* override*/
+    background-color: #28a745;
 
     &:hover {
-      color: #E0E0E0 !important;
-      background-color: #0056b3;
-      border-color: #0056b3;
+      color: #D4E157 !important;
+      background-color: #1e7e34;
+      border-color: #1e7e34;
     }
   }
 
