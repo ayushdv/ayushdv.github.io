@@ -22,6 +22,9 @@
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
+  z-index: 1000;
+  position: relative;
+  pointer-events: auto; 
    
   &:hover {
     background-color: mix(white, #000, 20%);
@@ -52,10 +55,16 @@
     color: $gray !important;
     border: 1px solid $light-gray !important; /* override*/
     background-color: #fff;
+    z-index: 1000;
+    position: relative;
+    pointer-events: auto;  
 
     &:hover {
       color: #fff !important;
       border-color: $gray;
+      z-index: 1000;
+      position: relative;
+      pointer-events: auto; 
     }
   }
 
