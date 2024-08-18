@@ -54,10 +54,10 @@
   &--inverse {
     color: $gray !important;
     border: 1px solid $light-gray !important; /* override*/
-    background-color: #fff;
+    background-color: #bd631e;
 
     &:hover {
-      color: #fff !important;
+      color: #bd631e !important;
       border-color: $gray;
     }
   }
