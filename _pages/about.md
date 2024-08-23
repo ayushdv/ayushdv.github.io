@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+## <span style="color: #5a2c91;">Purpose of the Website</span>
+This website intends to act as a hub of all my academic and professional pursuits. I plan to link my publications, teaching materials, personal/professional/academic projects (past, present and future) and other similar material here. Plus, some miscellaneous stuff as well.
+
 ## <span style="color: #5a2c91;">About Me</span>
 
 ![An Image of myself](/images/icon_adv.jpeg){: .align-right width="200px"}
@@ -22,6 +25,3 @@ redirect_from:
 🎥🏏⚽🏎️ When I’m not immersed in research or working on data projects, I have many hobbies to keep myself entertained. As a (self-proclaimed) movie buff, I spend a good chunk of my week watching films and logging them on [Letterboxd](https://letterboxd.com/)! My weekends are often filled with catching up on cricket, football, and Formula 1, and I always look forward to diving into a good book.
 
 Thank you for visiting my page! Feel free to explore my research, projects, and more. If you’d like to get in touch, don’t hesitate to reach out!
-
-## <span style="color: #5a2c91;">Purpose of the Website</span>
-This website intends to act as a hub of all my academic and professional pursuits. I plan to link my publications, teaching materials, personal/professional/academic projects (past, present and future) and other similar material here. Plus, some miscellaneous stuff as well.
