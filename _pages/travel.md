@@ -9,7 +9,7 @@ Welcome to my photo showcase! Here are some of my favourite photos from places I
 
 ---
 
-## <span style="color: #5a2c91;">Scotland</span>
+## <span style="color: #5a2c91;">Scotland Collection</span>
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin: 10px;">
     <img src="/images/scot1.png" alt="Dean Village" style="height: 300px; width: 500px;">
@@ -23,7 +23,7 @@ Welcome to my photo showcase! Here are some of my favourite photos from places I
 
 ---
 
-## <span style="color: #5a2c91;">Mumbai</span>
+## <span style="color: #5a2c91;">Mumbai Collection</span>
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; margin: 10px;">
     <img src="/images/mum1.jpeg" alt="IIT Bombay from Sameer Hill" style="height: 300px; width: 500px;">
