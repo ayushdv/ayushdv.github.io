@@ -7,11 +7,10 @@ author_profile: true
 
 Links to any Personal/Professional/Academic Projects.
 
-## Linear algebra
+## <span style="color: #5a2c91;">Personal Projects</span>
 
-* [Rational Canonical Form](rational-canonical-form.pdf)
-* [Square roots of matrices](matrix-square-roots.pdf)
+* [Cryptocurrency Dashboard](https://ayushdv.shinyapps.io/crypto_project/)
+Hello
+* [Stock Market Dashboard (Built Using: R and Shiny)](https://ayushdv.shinyapps.io/Stock_Market_Analysis/)
+Hello2
 
-## Set theory
-
-* [Infinities and Beyond](infinities-and-beyond.pdf)
