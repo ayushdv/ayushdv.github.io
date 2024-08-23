@@ -83,6 +83,15 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Project Category - The following the list of project categories and their headings
+project_category:
+  personal:
+    title: 'Personal Projects'
+  professional:
+    title: 'Professional Projects'    
+  academic:
+    title: 'Academic Projects'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -214,6 +223,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   portfolio:
