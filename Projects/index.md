@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Blurbs"
-permalink: /blurbs/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
-Here is where I post some short articles (?) about things I find interesting. 
+Links to any Personal/Professional/Academic Projects.
 
 ## Linear algebra
 
