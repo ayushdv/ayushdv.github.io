@@ -22,8 +22,11 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+
+  - title: "Acedemic CV"
+    url: /files/Ayushmaan_Academic_CV.pdf
     
-  - title: "CV"
+  - title: "Resume"
     url: /files/Ayushmaan_Resume_2.pdf
 
   - title: "Travelogue"
