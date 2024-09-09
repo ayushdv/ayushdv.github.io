@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-06-10-paper-title-number-1
 date: 2024-06-10
 venue: 'SSRN'
-paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924801'
+paperurl: 'https://ssrn.com/abstract=4924801'
 citation: 'Verma, Sandeep and Verma, Ayushmaan Dev (June 10, 2024). &quot;AI and Public Procurement: Selected Use Cases and Some Preliminary Reflections from India&quot;, Available at SSRN: https://ssrn.com/abstract=4924801'
 ---
 
