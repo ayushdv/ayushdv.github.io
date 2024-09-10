@@ -25,3 +25,5 @@ This website intends to act as a hub of all my academic and professional pursuit
 🎥🏏⚽🏎️ When I’m not immersed in research or working on data projects, I have many hobbies to keep myself entertained. As a (self-proclaimed) movie buff, I spend a good chunk of my week watching films and logging them on [Letterboxd](https://letterboxd.com/)! My weekends are often filled with catching up on cricket, football, and Formula 1, and I always look forward to diving into a good book.
 
 Thank you for visiting my page! Feel free to explore my research, projects, and more. If you’d like to get in touch, don’t hesitate to reach out!
+
+_Namárië!_
