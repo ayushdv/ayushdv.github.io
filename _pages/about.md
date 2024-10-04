@@ -14,11 +14,11 @@ This website intends to act as a hub of all my academic and professional pursuit
 
 ![An Image of myself](/images/icon_adv.jpeg){: .align-right width="200px"}
 
-🔬 I am a prospective PhD student at the School of Economics at the University of Edinburgh. Starting in October 2024, I will begin my research in Game Theory, specifically Multidimensional Signalling Theory. I hold a BS in Mathematics from IIT Bombay and an MSc in Mathematical Economics and Econometrics from the University of Edinburgh.
+🔬 I am a first-year PhD student at the School of Economics at the University of Edinburgh. My research interests are in Game Theory, specifically Multidimensional Signalling Theory. I hold a BS in Mathematics from IIT Bombay and an MSc in Mathematical Economics and Econometrics from the University of Edinburgh.
 
 💻 Professionally, I have 10-12 months of experience in Data Science and Machine Learning. During this time, I’ve worked with various tools and programming languages, including Python, R, SQL, STATA, and PowerBI.
 
-📚 Beyond my professional and academic pursuits, I am keenly interested in Finance, Statistical Methods, and Deep Learning Methods. I wish to explore how these areas intersect with economics and how they can be applied to real-world problems.
+📚 Beyond my professional and academic pursuits, I am keenly interested in Finance, Statistical Methods, Risk Modelling, and Deep Learning Methods. I wish to explore how these areas intersect with economics and how they can be applied to real-world problems.
 
 ## <span style="color: #5a2c91;">Other Stuff</span>
 
