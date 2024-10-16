@@ -1,7 +1,7 @@
 ---
 title: "AI and Public Procurement: Selected Use Cases and Some Preliminary Reflections from India"
 collection: publications
-category: manuscripts
+category: papers
 permalink: /publication/2024-06-10-paper-title-number-1
 date: 2024-06-10
 venue: 'SSRN'
